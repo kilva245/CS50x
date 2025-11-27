@@ -27,9 +27,25 @@ Topics covered:
 - Magic Numbers  
 
 Completed:
-- ✔️ **Problem Set 1** (all exercises solved)
+- ✔️ **Problem Set 1**
 
 All solutions are available inside the `pset1/` directory.
+
+---
+
+### ✅ Week 2 — Arrays & Functions  
+Topics covered:
+- Functions  
+- Variables & Scope  
+- Debugging (Step Through)  
+- Debugging (Step Into)  
+- Arrays  
+- Command Line Arguments  
+
+Completed:
+- ✔️ **Problem Set 2**
+
+All solutions are available inside the `pset2/` directory.
 
 ---
 
@@ -46,7 +62,7 @@ This repo helps me:
 ## 🔄 Upcoming Updates
 - Adding explanations for each solution  
 - More structured weekly notes  
-- New folders for future Problem Sets (pset2, pset3, ...)
+- New folders for future Problem Sets (pset3, pset4, ...)
 
 ---
 
@@ -73,15 +89,29 @@ CS50x: https://cs50.harvard.edu/x/
 آنچه یاد گرفتم:
 - انواع داده‌ها (Data Types)  
 - عملگرها (Operators)  
-- دستورات شرطی (Conditionals)  
+- شرط‌ها (Conditionals)  
 - حلقه‌ها (Loops)  
-- ورودی‌ خط فرمان (Command Line)  
-- عددهای جادویی (Magic Numbers)
+- ورودی خط فرمان (Command Line)  
+- اعداد جادویی (Magic Numbers)
 
 انجام‌شده:
-- ✔️ **Problem Set 1** (تمام تمرین‌ها حل شده‌اند)
+- ✔️ **Problem Set 1**  
+همه‌ی تمرین‌ها در پوشه‌ی `pset1/` قرار دارند.
 
-همه‌ی راه‌حل‌ها در پوشه‌ی `pset1/` قرار دارند.
+---
+
+### ✅ هفته ۲ — آرایه‌ها و توابع  
+آنچه یاد گرفتم:
+- توابع (Functions)  
+- متغیرها و محدوده‌ی دسترسی (Variables & Scope)  
+- دیباگ — Step Through  
+- دیباگ — Step Into  
+- آرایه‌ها (Arrays)  
+- ورودی‌ خط فرمان (Command Line Arguments)
+
+انجام‌شده:
+- ✔️ **Problem Set 2**  
+همه‌ی راه‌حل‌ها در پوشه‌ی `pset2/` قرار دارند.
 
 ---
 
@@ -97,8 +127,8 @@ CS50x: https://cs50.harvard.edu/x/
 
 ## 🔄 آپدیت‌های آینده
 - اضافه کردن توضیحات برای هر راه‌حل  
-- منظم‌تر کردن نوت‌ها  
-- ساخت پوشه‌ها برای هفته‌ها و Problem Setهای بعدی
+- نوت‌های منظم‌تر برای هفته دوم و هفته‌های بعد  
+- ساخت پوشه‌ها برای Problem Setهای آینده (pset3، pset4، …)
 
 ---
 
