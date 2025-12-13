@@ -49,6 +49,22 @@ All solutions are available inside the `pset2/` directory.
 
 ---
 
+### ✅ Week 3 — Searching, Sorting & Recursion  
+Topics covered:
+- Linear Search  
+- Binary Search  
+- Bubble Sort  
+- Selection Sort  
+- Merge Sort  
+- Recursion  
+
+Completed:
+- ✔️ **Problem Set 3**
+
+All solutions are available inside the `pset3/` directory.
+
+---
+
 ## 🎯 Purpose of This Repository
 This repo helps me:
 
@@ -62,7 +78,7 @@ This repo helps me:
 ## 🔄 Upcoming Updates
 - Adding explanations for each solution  
 - More structured weekly notes  
-- New folders for future Problem Sets (pset3, pset4, ...)
+- New folders for future Problem Sets (pset4, pset5, ...)
 
 ---
 
@@ -115,6 +131,21 @@ CS50x: https://cs50.harvard.edu/x/
 
 ---
 
+### ✅ هفته ۳ — جستجو، مرتب‌سازی و بازگشتی  
+آنچه یاد گرفتم:
+- جستجوی خطی (Linear Search)  
+- جستجوی دودویی (Binary Search)  
+- مرتب‌سازی حبابی (Bubble Sort)  
+- مرتب‌سازی انتخابی (Selection Sort)  
+- مرتب‌سازی ادغامی (Merge Sort)  
+- بازگشتی (Recursion)
+
+انجام‌شده:
+- ✔️ **Problem Set 3**  
+همه‌ی راه‌حل‌ها در پوشه‌ی `pset3/` قرار دارند.
+
+---
+
 ## 🎯 هدف این ریپازیتوری
 این مخزن کمک می‌کند:
 
@@ -127,8 +158,8 @@ CS50x: https://cs50.harvard.edu/x/
 
 ## 🔄 آپدیت‌های آینده
 - اضافه کردن توضیحات برای هر راه‌حل  
-- نوت‌های منظم‌تر برای هفته دوم و هفته‌های بعد  
-- ساخت پوشه‌ها برای Problem Setهای آینده (pset3، pset4، …)
+- نوت‌های منظم‌تر برای هفته‌های بعد  
+- ساخت پوشه‌ها برای Problem Setهای آینده (pset4، pset5، …)
 
 ---
 
